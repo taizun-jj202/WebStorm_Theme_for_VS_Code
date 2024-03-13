@@ -1,0 +1,22 @@
+{
+  "name": "webstorm-theme",
+  "displayName": "WebStorm Theme",
+  "description": "VS Code Theme that is a look-alike of WebStorm",
+  "version": "1.0.2",
+  "publisher": "Taizun_Jafri",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WebStorm Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/web-storm-look-alike-theme-color-theme.json"
+      }
+    ]
+  }
+}
