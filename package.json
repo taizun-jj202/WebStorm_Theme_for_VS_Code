@@ -4,6 +4,18 @@
   "description": "VS Code Theme that is a look-alike of WebStorm",
   "version": "1.0.2",
   "publisher": "Taizun_Jafri",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taizun-jj202/WebStorm_Theme_for_VS_Code"
+  },
+  "keywords": [
+    "theme",
+    "WebStorm",
+    "JetBrains",
+    "IDE",
+    "Taizun_Jafri",
+    "Taizun"
+  ],
   "engines": {
     "vscode": "^1.87.0"
   },
